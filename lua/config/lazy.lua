@@ -17,11 +17,9 @@ vim.opt.rtp:prepend(lazypath)
 -- Setup lazy.nvim
 
 -- Enable line numbers and relative line numbers
-vim.o.number = true
-vim.o.relativenumber = true
-vim.o.tabstop = 2
-vim.o.shiftwidth = 2
-vim.g.mapleader = " "
+--vim.o.number = true
+--vim.o.relativenumber = true
+
 vim.g.maplocalleader = "\\"
 
 -- Set termguicolors to enable highlight groups

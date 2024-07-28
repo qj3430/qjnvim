@@ -10,6 +10,7 @@ return {
         hl.LineNr = { fg = c.orange }
         hl.LineNrAbove = { fg = c.blue }
         hl.LineNrBelow = { fg = c.magenta }
+        hl.Visual = { bg = '#4B6B88'}
       end
     })
     vim.cmd.colorscheme "tokyonight"
