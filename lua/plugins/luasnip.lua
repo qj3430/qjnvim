@@ -67,7 +67,7 @@ return {
 
 			-- useState
 			s(
-				"useState",
+				"sta",
 				fmt(
 					[[
             const [{}, set{}] = useState({})
@@ -84,7 +84,7 @@ return {
 
 			-- useEffect
 			s(
-				"useEffect",
+				"eff",
 				fmt(
 					[[
             useEffect(() => {{
